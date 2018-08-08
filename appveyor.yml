@@ -35,4 +35,4 @@ deploy:
   provider: NuGet
   server: https://ci.appveyor.com/nuget/psantiago32-v5m035s3msh3
   api_key:
-    secure: qv/rCMFTu6BRtENP7hS+++jGJps6Api481M+uymDtbA=
+    secure: znkR0TBl4Tw20W8IgHsW9fpaGeOLaYfdO5BD77wMWBM
