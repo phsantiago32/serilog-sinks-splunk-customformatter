@@ -17,8 +17,6 @@ dotnet_csproj:
   informational_version: '%version%'
 
 before_build:
-  - choco install opencover.portable
-  - choco install codecov
   - dotnet restore
 
 build:
@@ -36,4 +34,4 @@ artifacts:
 deploy:
   provider: NuGet
   api_key:
-    secure: ei5x708cfvcbbb6s8rmvbp5j
+    secure: znkR0TBl4Tw20W8IgHsW9fpaGeOLaYfdO5BD77wMWBM=
