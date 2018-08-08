@@ -33,6 +33,5 @@ artifacts:
 
 deploy:
   provider: NuGet
-  server: https://ci.appveyor.com/nuget/psantiago32-v5m035s3msh3
   api_key:
-    secure: znkR0TBl4Tw20W8IgHsW9fpaGeOLaYfdO5BD77wMWBM
+    secure: 2xxXD5pesRGuCcLehKnZ/6hCqRrd/GeCvO3jSDFhIhecMUlqqep3kBwYDrtDZQ24
